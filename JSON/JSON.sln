@@ -1,0 +1,19 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "JSON", "JSON\JSON.shproj", "{634FF80A-FC17-49A4-BD62-DA263243AAF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONTest", "JSONTest\JSONTest.csproj", "{217F77DB-D1CD-467B-B59F-D035B390EAD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{217F77DB-D1CD-467B-B59F-D035B390EAD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{217F77DB-D1CD-467B-B59F-D035B390EAD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{217F77DB-D1CD-467B-B59F-D035B390EAD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{217F77DB-D1CD-467B-B59F-D035B390EAD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

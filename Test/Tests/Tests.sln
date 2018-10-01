@@ -1,0 +1,19 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Security", "..\..\Security\Security\Security.shproj", "{513CCBC4-178F-44B8-A227-CCD02D0B6356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurityTest", "SecurityTest\SecurityTest.csproj", "{B7C63C07-495E-4C48-88ED-8C218C37C5B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7C63C07-495E-4C48-88ED-8C218C37C5B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C63C07-495E-4C48-88ED-8C218C37C5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C63C07-495E-4C48-88ED-8C218C37C5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C63C07-495E-4C48-88ED-8C218C37C5B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

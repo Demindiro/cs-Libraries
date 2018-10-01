@@ -1,0 +1,10 @@
+﻿{
+	"Foo":  "Boop",
+	"A Number": 42,
+	"Beep":  "Boop",
+	"AnotherObject":  {
+		"Fus": ["Roh", "Dah"],
+		"Oh": "No"
+	}
+	"Pi": 3.141592656,
+}
